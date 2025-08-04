@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lin-Churan
+- 👋 Hi, I’m @Li-Chaoran
 - 👀 Welcome to my personal homepage.
 - I am mainly engaged in the field of robot control and have a certain understanding of mechanical structures.
 - I have won 5 national awards, including the Mechanical Innovation Design Competition.
